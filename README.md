@@ -23,9 +23,7 @@ This is because if a>b , a is bigger than MOD nd b is smaller , the answer will 
 
 So, I tried to find the equation. There is a equation that is called Pascal's theorem.
 
-( N )     =   (N - 1)    +     (N -1)
-        
-( K )         (K - 1)          ( K )
+nCk = (n-1)C(k-1) + (n-1)Ck
 
 After that , I use dp and found the answer.
 
