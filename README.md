@@ -7,7 +7,7 @@ made by Jaehyeok Choi
 
 ## What is the problem?
 
-![button](https://github.com/Choi-JaeHyeok-21500749/11051/blob/main/11051_pro.JPG)
+![button](https://github.com/Choi-JaeHyeok-21500749/11051/blob/main/11051_pro.PNG)
 
 ## What Algorithm should I use?
 
